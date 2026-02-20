@@ -1,1 +1,1 @@
-# C-practicing
+# Repository for C++ practicing
